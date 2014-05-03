@@ -4,5 +4,11 @@
     <string name="app_name">CameraApp</string>
     <string name="hello_world">Testing Camera!!!</string>
     <string name="action_settings">Settings</string>
+    <string name="menu_camera_label">Camera</string>
+    <string-array name="camera_choices">
+        <item>Take Picture</item>
+        <item>Comming Soon Functionality!!!</item>
+    </string-array>
+    <string name="error_external_storage">There was a problem accessing your device\'s external storage.</string>
 
 </resources>

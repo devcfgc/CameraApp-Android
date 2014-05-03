@@ -3,6 +3,12 @@
     tools:context="com.devcfgc.cameraapp.MainActivity" >
 
     <item
+        android:id="@+id/action_camera"
+        android:icon="@drawable/ic_action_camera"
+        android:showAsAction="always"
+        android:title="@string/menu_camera_label">
+    </item>
+    <item
         android:id="@+id/action_settings"
         android:orderInCategory="100"
         android:showAsAction="never"
